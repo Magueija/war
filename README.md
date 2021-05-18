@@ -7,7 +7,7 @@ This project was completed in March 2021 and it was used to learn python OOP. Th
 
 First you have enter player1 and player2 names, after that the game has started, you just need to insert any key to play each round or 'q' to stop playing.
 
-<img alt="War Preview" height="250em" src="https://github.com/Magueija/war/blob/main/images/war_preview.png?raw=true" />
+<img alt="War Preview" height="100em" src="https://github.com/Magueija/war/blob/main/images/war_preview.png?raw=true" />
 
 ## Getting Started
 
